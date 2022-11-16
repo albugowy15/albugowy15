@@ -22,6 +22,6 @@
 
 ## GitHub Stats 📈 :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=albugowy15&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![albugowy15 GitHub stats](https://github-readme-stats.vercel.app/api?username=albugowy15&theme=dark&count_private=true&show_icons=true)
 
-[![albugowy15 GitHub stats](https://github-readme-stats.vercel.app/api?username=albugowy15&theme=algolia)](https://github.com/albugowy15/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=albugowy15&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
