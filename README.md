@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working as a **Full Stack Developer** at [harisenin.com](https://harisenin.com) and a **Front End Engineer** at [Torche](https://torche.app)
+- 🔭 I’m currently working as a **Front End Engineer** at [Torche](https://torche.app)
 - 🎓 Studies for Informatics at [Institut Teknologi Sepuluh Nopember](https://its.ac.id)
 - 🏡 Lives in **Surabaya, Indonesia**
 - 🌱 I’m currently learning Front End Web Development
