@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working as a **Front End Engineer** at [Torche](https://torche.app)
 - 🎓 Studies for Informatics at [Institut Teknologi Sepuluh Nopember](https://its.ac.id)
-- 🏡 Lives in **Surabaya, Indonesia**
-- 🌱 I’m currently learning Front End Web Development
+- 🏡 Lives in **Jepara, Indonesia**
+- 🌱 I’m currently learning Fullstack Development
 - 🏢 Write some tech article in my blog [bughowi.com](https://bughowi.com)
 
 
