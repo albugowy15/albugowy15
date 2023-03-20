@@ -4,7 +4,6 @@
 
 ## About Me
 
-- 🔭 I’m currently working as a **Front End Engineer** at [Torche](https://torche.app)
 - 🎓 Studies for Informatics at [Institut Teknologi Sepuluh Nopember](https://its.ac.id)
 - 🏡 Lives in **Jepara, Indonesia**
 - 🌱 I’m currently learning Fullstack Development
